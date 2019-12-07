@@ -29,8 +29,8 @@ class App extends Component {
   }
 
   clickCount = id => {
-    this.state.cards.find((o, i) => {
-      if (o.id === id) {
+    this.state.cards.find((l, i) => {
+      if (l.id === id) {
         if (cards[i].count === 0) {
           cards[i].count = cards[i].count + 1;
           this.setState({ score: this.state.score + 1 }, function () {
@@ -54,10 +54,11 @@ class App extends Component {
             clickCount={this.clickCount}
             id={card.id}
             key={card.id}
-            image={card.image}
+            image={require("./images" + card.image)}
+            
           />
         ))}
-        <Footer />
+        <Footer/>
       </Wrapper>
     );
   }

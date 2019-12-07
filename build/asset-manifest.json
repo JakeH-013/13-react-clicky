@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/13-react-clicky/static/css/main.ea2f08db.chunk.css",
+    "main.js": "/13-react-clicky/static/js/main.a1b0aef5.chunk.js",
+    "main.js.map": "/13-react-clicky/static/js/main.a1b0aef5.chunk.js.map",
+    "runtime-main.js": "/13-react-clicky/static/js/runtime-main.208e1e46.js",
+    "runtime-main.js.map": "/13-react-clicky/static/js/runtime-main.208e1e46.js.map",
+    "static/js/2.44ef9c3e.chunk.js": "/13-react-clicky/static/js/2.44ef9c3e.chunk.js",
+    "static/js/2.44ef9c3e.chunk.js.map": "/13-react-clicky/static/js/2.44ef9c3e.chunk.js.map",
+    "index.html": "/13-react-clicky/index.html",
+    "precache-manifest.5059d4e56b967ef5f9b69aab995404df.js": "/13-react-clicky/precache-manifest.5059d4e56b967ef5f9b69aab995404df.js",
+    "service-worker.js": "/13-react-clicky/service-worker.js",
+    "static/css/main.ea2f08db.chunk.css.map": "/13-react-clicky/static/css/main.ea2f08db.chunk.css.map",
+    "static/media/aragorn.jpg": "/13-react-clicky/static/media/aragorn.f7d973bb.jpg",
+    "static/media/boromir.png": "/13-react-clicky/static/media/boromir.558bc91d.png",
+    "static/media/elrond.jpeg": "/13-react-clicky/static/media/elrond.1ee83025.jpeg",
+    "static/media/galadriel.png": "/13-react-clicky/static/media/galadriel.2d3c2d8f.png",
+    "static/media/gandalf.jpg": "/13-react-clicky/static/media/gandalf.2d480682.jpg",
+    "static/media/gimli.jpg": "/13-react-clicky/static/media/gimli.13c5afa8.jpg",
+    "static/media/merry.jpg": "/13-react-clicky/static/media/merry.22627175.jpg",
+    "static/media/pippin.jpg": "/13-react-clicky/static/media/pippin.27fa497e.jpg",
+    "static/media/sarumon.jpg": "/13-react-clicky/static/media/sarumon.a6e52f79.jpg",
+    "static/media/theoden.jpg": "/13-react-clicky/static/media/theoden.bf39ad65.jpg",
+    "static/media/treebeard.png": "/13-react-clicky/static/media/treebeard.55f22b03.png",
+    "static/media/witchKing.png": "/13-react-clicky/static/media/witchKing.02bd6c0f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.208e1e46.js",
+    "static/js/2.44ef9c3e.chunk.js",
+    "static/css/main.ea2f08db.chunk.css",
+    "static/js/main.a1b0aef5.chunk.js"
+  ]
+}

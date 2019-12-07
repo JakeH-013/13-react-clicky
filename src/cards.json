@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "Boromir",
-        "image": "./images/boromir.png",
+        "image": "/boromir.png",
         "clicked": 0
     },
     {
         "id": 2,
         "name": "Aragorn",
-        "image": "./images/aragorn.jpg",
+        "image": "/aragorn.jpg",
         "clicked": 0
     },
     {
         "id": 3,
         "name": "Elrond",
-        "image": "./images/elrond.jpeg",
+        "image": "/elrond.jpeg",
         "clicked": 0
     },
     {
         "id": 4,
         "name": "Galadriel",
-        "image": "./images/galadriel.png",
+        "image": "/galadriel.png",
         "clicked": 0
     },
     {
         "id": 5,
         "name": "Gandalf",
-        "image": "./images/gandalf.jpg",
+        "image": "/gandalf.jpg",
         "clicked": 0
     },
     {
         "id": 6,
         "name": "Gimli",
-        "image": "./images/merry.jpg",
+        "image": "/gimli.jpg",
         "clicked": 0
     },
     {
         "id": 7,
         "name": "Pippin",
-        "image": "./images/pippin.jpeg",
+        "image": "/pippin.jpg",
         "clicked": 0
     },
     {
         "id": 8,
         "name": "Sarumon",
-        "image": "./images/sarumon.jpg",
+        "image": "/sarumon.jpg",
         "clicked": 0
     },
     {
         "id": 9,
         "name": "Theoden",
-        "image": "./images/theoden.jpg",
+        "image": "/theoden.jpg",
         "clicked": 0
     },
     {
         "id": 10,
         "name": "Treebeard",
-        "image": "./images/treebeard.png",
+        "image": "/treebeard.png",
         "clicked": 0
     },
     {
         "id": 11,
         "name": "Witch King of Angmar",
-        "image": "./images/witchKing.png",
+        "image": "/witchKing.png",
         "clicked": 0
     },
     {
         "id": 12,
         "name": "Merry",
-        "image": "./images/merry.jpg",
+        "image": "/merry.jpg",
         "clicked": 0
     }
 ]
