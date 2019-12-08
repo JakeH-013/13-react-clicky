@@ -1,7 +1,16 @@
+.header {
+  width: 100%;
+  font-size: 2rem;
+  color: green;
+  margin-bottom: 10px;
+  padding-left: 21.7rem;
+  padding-right: 19rem;
+}
+
 .title {
-    width: 100%;
-    text-align: center;
-    font-size: 3rem;
-    color: #2A77AE;
-    margin-bottom: 50px;
-  }
+  float: left;
+}
+
+.scores {
+  float: right;
+}

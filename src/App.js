@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import Header from './components/Header/header';
-import Footer from "./components/Footer/footer";
+// import Footer from "./components/Footer/footer";
 import CardBoard from "./components/CardBoard/cardBoard";
 import Wrapper from "./components/Wrapper/wrapper";
 import cards from "./cards.json";
@@ -58,7 +58,7 @@ class App extends Component {
             
           />
         ))}
-        <Footer/>
+        {/* <Footer/> */}
       </Wrapper>
     );
   }
