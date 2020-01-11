@@ -2,7 +2,7 @@
 
 A simple memory game written in React.
 
-###Link: https://jakeh-013.github.io/13-react-clicky/
+Link: https://jakeh-013.github.io/13-react-clicky/
 
 ## Instructions
 
